@@ -5,7 +5,7 @@ using namespace std;
 int main () {
 
      cout << Bienvenida al Mundo de Brithney >> endl;
-     cout << "POO";
+     cout << "POO nrc: 8925";
 	 
 	 
 	 return 0;
